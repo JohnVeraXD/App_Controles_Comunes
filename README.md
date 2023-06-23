@@ -13,27 +13,27 @@ Correo: (texto en formato correo electrónico)
 Teléfono: ((texto en formato número de teléfono celular)
 Ubicar en la parte inferior dos botones, limpiar formulario y enviar. Al presionar enviar se muestra otra actividad con los datos ingresados
 
---------------------------------------------Actividad principal---------------------------
+Actividad principal
 ![image](https://github.com/JohnVeraXD/App_Controles_Comunes/assets/108051712/a4decda5-fa85-4ce2-ba26-d1c2e3df1d9b)
 -
 -
---------------------------------------Datos enviado a la segunda actividad-----------------
+Datos enviado a la segunda actividad
 ![image](https://github.com/JohnVeraXD/App_Controles_Comunes/assets/108051712/0014cd78-658a-41d3-b5ae-fffb6833eb33)
 -
 -
----------------------------------------------Formulario Limpiado-------------------------
+Formulario Limpiado
 ![image](https://github.com/JohnVeraXD/App_Controles_Comunes/assets/108051712/d00abe2e-0b91-48bc-be48-eb5300feae82)
 -
 -
------------------------------------------Validacion de campos vacios---------------------------------
+Validacion de campos vacios
 ![image](https://github.com/JohnVeraXD/App_Controles_Comunes/assets/108051712/fb6e2254-2b05-4aae-a180-4b04ef258c51)
 -
 -
----------------------------------------Formato de la fecha de nacimiento-----------------------------
+Formato de la fecha de nacimiento
 ![image](https://github.com/JohnVeraXD/App_Controles_Comunes/assets/108051712/b8b3d63d-5bf8-4bf4-89a8-f028040f5004)
 -
 -
---------------------------------------------Validacion del correo----------------------------------
+Validacion del correo
 ![image](https://github.com/JohnVeraXD/App_Controles_Comunes/assets/108051712/4ba51f9c-b4c7-438f-a7a9-18a4df7f2af3)
 -
 -
