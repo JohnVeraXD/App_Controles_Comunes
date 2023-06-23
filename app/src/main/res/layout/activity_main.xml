@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="3dp"
+        android:text="Bienvenido"
+        android:textAlignment="center"
+        android:textSize="48sp"
+        android:textStyle="bold|italic" />
+
+    <EditText
+        android:id="@+id/txtNombre"
+        android:layout_width="328dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="39dp"
+        android:layout_marginTop="201dp"
+        android:layout_marginEnd="44dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Nombres"
+        android:textAlignment="textStart"
+        android:textColor="#6E6E6E"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="-2dp"
+        android:layout_marginTop="71dp"
+        android:text="Registre sus datos por favor"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/txtCedula"
+        android:layout_width="328dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="131dp"
+        android:layout_marginEnd="42dp"
+        android:ems="10"
+        android:inputType="number"
+        android:text="Cédula"
+        android:textAlignment="textStart"
+        android:textColor="#6E6E6E"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/txtFecha"
+        android:layout_width="328dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="274dp"
+        android:layout_marginEnd="43dp"
+        android:ems="10"
+        android:inputType="date"
+        android:text="Fecha Nacimiento"
+        android:textAlignment="textStart"
+        android:textColor="#6E6E6E"
+        android:textSize="20sp" />
+
+</RelativeLayout>
